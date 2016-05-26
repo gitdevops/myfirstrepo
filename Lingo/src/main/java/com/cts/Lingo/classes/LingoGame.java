@@ -3,7 +3,7 @@ package com.cts.Lingo.classes;
 public class LingoGame {
 	
 	public LingoGame() {
-		System.out.println("this is for sonar");
+		System.out.println("this is for sonar - ");
 	}
 	
 	public void startGame() {
